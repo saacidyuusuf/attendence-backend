@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "name": "saacid",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "name": "jamilo",
+      "role": "teacher"
+    },
+    {
+      "id": 3,
+      "name": "nasri",
+      "role": "teacher"
+    },
+    {
+      "id": 1,
+      "className": "F4",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "className": "Ca228",
+      "userId": 2
+    },
+    {
+      "id": 3,
+      "className": "Ca225",
+      "userId": 3
+    }
+  ]
